@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    margin: 0;    
+}
+.explainer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    height:50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.btn {
+    border-style: dashed;
+    border-radius: 2px;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+
+}
